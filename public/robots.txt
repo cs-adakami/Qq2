@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+Allow: /public/
+Sitemap: https://www.pusat-bantuan-adakami.online/sitemap.xml
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
